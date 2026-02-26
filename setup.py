@@ -29,8 +29,6 @@ setup(
         "egl_probe>=1.0.1",
         "torch",
         "torchvision",
-        "huggingface_hub==0.23.4",
-        "transformers==4.41.2",
     ],
     eager_resources=['*'],
     include_package_data=True,
